@@ -2,7 +2,7 @@ Once upon a time, in the city of Ostwick, there lived a boy who liked to play wi
 
 He was adept at swordplay and practiced with the other street urchins.
 
-He's outstanding so his neighbor always stares at him while he practice.
+He's outstanding, so his neighbor always stares at him while he practice.
 
 One day, the boy noticed his neighbor watching, so he went over to talk to him.
 
@@ -10,8 +10,10 @@ The neighbor boy's father was a knight who had fled battle, so his entire family
 
 Our boy in Ostwick was more than happy to speak with his neighbor. 
 
-He explained to his neighbor that he was trained by a master swordsman  and that he wants to be the best fighter in the realm.
+He explained to his neighbor that he was trained by a master swordsman and that he wants to be the best fighter in the realm.
 
-The neighbor told him the famous sword battle will be held in Brieland, and the winner will be given knight sword 
+The neighbor told him a tournament will be held in Brieland, and the winner will be given a knight's sword. 
 
-He's really interested in it, but he's concerned with the attending since Brieland is the rival city 
+He's really interested in it, but he's concerned with attending since Brieland is the rival city.
+
+Seeing an opportunity, the neighbor boy offered to go with him.
